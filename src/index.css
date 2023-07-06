@@ -1,0 +1,43 @@
+.quantity {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  font-size: large;
+  font-weight: bold;
+}
+.cartlogo {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 70px;
+  position: absolute;
+  top: 50px;
+  right: 100px;
+}
+.productForm {
+  border: 1px solid black;
+}
+.productsTable {
+  border: 1px solid black;
+}
+.productsdisplay {
+  display: flex;
+  border: 1px solid black;
+}
+.item {
+  margin: 10px;
+  border: 1px solid black;
+}
+.cartItems {
+  display: flex;
+  position: relative;
+}
+.carttotal {
+  position: absolute;
+  right: 50px;
+  top: 50px;
+  font-size: large;
+  font-weight: bold;
+}
